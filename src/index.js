@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 // Fetch Request
-fetch('http://api.open-notify.org/astros.json')
+fetch('https://fontmeme.com/permalink/180719/67429e6afec53d21d64643101c43f029.png')
 .then(function(response) {
   console.log(response);
   return response.json();
